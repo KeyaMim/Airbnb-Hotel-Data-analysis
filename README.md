@@ -8,3 +8,6 @@ Working on this project was exciting because it allowed me to see hidden pattern
 ### Techniques Used
 
 Pivot Tables, Conditional Formatting, Charts, Slicers, Filters, Data Exploration
+
+Here’s a snapshot of the interactive Airbnb hotel dashboard:  
+![Dashboard Screenshot](Screenshot.png)
