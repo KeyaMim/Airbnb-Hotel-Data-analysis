@@ -5,6 +5,6 @@ The dashboard is fully interactive, allowing you to filter by channel or date to
 
 Working on this project was exciting because it allowed me to see hidden patterns in the data and present them clearly and visually.
 
-**Techniques Used**
+###Techniques Used
 
 Pivot Tables, Conditional Formatting, Charts, Slicers, Filters, Data Exploration
