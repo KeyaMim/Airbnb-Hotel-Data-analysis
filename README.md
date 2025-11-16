@@ -13,3 +13,7 @@ Here’s a snapshot of the interactive Airbnb hotel dashboard:
 
 
 ![Dashboard Screenshot](Screenshot.png)
+
+## Aim of the Project
+The aim of this project is to provide actionable insights from Airbnb hotel data to help managers optimize revenue, reduce cancellations, and understand booking trends.
+
